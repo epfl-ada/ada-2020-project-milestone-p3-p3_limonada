@@ -21,7 +21,7 @@ The final goal is to assess whether the common perception of oil as a major play
 **NOTE**: by "presence of war in a country" or "involvement of a country in a war" we mean that a war was fought on the country's territory, whether it was a civil war, or a foreign invasion, etc.
 
 1. Is there a correlation between abundance/high exports of oil in a country and its population's wellbeing? For example, some of the variables we would like to consider are:
-    * Income inequality
+    * Income inequality (Gini coefficient)
     * GDP
     * Child mortality
     * Illiteracy rate
@@ -33,6 +33,7 @@ The final goal is to assess whether the common perception of oil as a major play
 1. The main dataset that we will use is the one provided to us and used in the paper.
 1. When possible, we will try to integrate data from the World Inequality Database (https://wid.world/) to evaluate how wealth is distributed across the population (to answer research question 1).
 1. Finally, we will also use the UCDP/PRIO (https://ucdp.uu.se/) dataset to collect data on the presence of war in a country.
+1. WIID
 
 
 # Methods
