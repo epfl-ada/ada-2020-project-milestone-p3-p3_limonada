@@ -65,3 +65,4 @@ For the proposed research questions (1, 2, 3):
 # Organization Within the Team
 As we have already done for the 2 homeworks, we will use a "pair programming style" collaboration, where we all work on the assignment at the same time and explore the project together and provide feedback. We have taken this decision knowing that it might increase the overall time needed to complete the project. However, we think that the trade-off is worth it. We have seen that this method offers a very effective opportunity for us to all learn and practice at the same pace while playing on each others' strengths. 
 
+UPDATE: now that the project is submitted, we can confirm that we worked as described above.
